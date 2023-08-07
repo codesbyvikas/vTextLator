@@ -22,7 +22,7 @@ export default function About(props) {
                         <div className="accordion-body">
                           <strong>Greetings! I'm Vikas Kewat</strong>, an enthusiastic Computer Engineering student with a 
                           passion for technology and a knack for crafting innovative solutions. 
-                          I welcome you to <strong> vTextLator</strong>, my first React project.<br></br>
+                          I welcome you to <strong> vTextLator</strong>, my first React Js project.
                           </div>
                       </div>
                       </div>
